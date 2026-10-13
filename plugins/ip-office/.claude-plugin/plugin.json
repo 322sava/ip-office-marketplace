@@ -1,0 +1,15 @@
+{
+  "name": "ip-office",
+  "version": "0.10.1",
+  "description": "IP офис: координатор и три роли — инженер, юрист по IP, патентовед — для патентной и юридической работы по РФ.",
+  "author": {
+    "name": "Егор"
+  },
+  "keywords": [
+    "patent",
+    "trademark",
+    "ip",
+    "russia",
+    "fto"
+  ]
+}
