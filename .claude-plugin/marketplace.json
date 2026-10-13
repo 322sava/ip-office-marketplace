@@ -1,0 +1,13 @@
+{
+  "name": "ip-office-marketplace",
+  "owner": { "name": "Егор (322sava)" },
+  "metadata": { "description": "Плагины IP-офиса: координатор, инженер, юрист, патентовед, контролёр цитирования" },
+  "plugins": [
+    {
+      "name": "ip-office",
+      "source": "./plugins/ip-office",
+      "description": "IP-офис: координатор + роли инженера, юриста, патентоведа и контролёра цитирования; база права ИС через коннектор IP SEARCH 2",
+      "version": "0.10.1"
+    }
+  ]
+}
